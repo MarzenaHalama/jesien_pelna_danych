@@ -33,7 +33,7 @@ Marzena Halama
 <img width="719" height="343" alt="image" src="https://github.com/user-attachments/assets/86818c79-567e-425d-8dc4-bbbe027ee1aa" />
 
 
-Matematyczka i Research Assistant w IITA PAN. Zajmuje się uczeniem maszynowym, wizją komputerową i matematycznymi fundamentami sztucznej inteligencji. Edukatorka i prelegentka, autorka projektu Policzne na Palacach [https://policzonenapalcach.pl/] oaraz cyklu bajek mametaycznych [https://open.spotify.com/show/7MTzDvqEmXiYchR8kZMX36]
+Matematyczka i Research Assistant w IITA PAN. Zajmuje się uczeniem maszynowym, wizją komputerową i matematycznymi fundamentami sztucznej inteligencji. Edukatorka i prelegentka, autorka projektu Policzne na Palacach [https://policzonenapalcach.pl/] oaraz cyklu bajek matematycznych [https://open.spotify.com/show/7MTzDvqEmXiYchR8kZMX36]
 
 
 Materiały w tym repozytorium zostały przygotowane na potrzeby prelekcji w cyklu „Jesień Pełna Danych” 
@@ -79,4 +79,5 @@ Repozytorium będzie rozbudowywane wraz z trwaniem projektu i kolejnych edycji w
 
 
 Notebooki i przykłady przygotowane przez Marzena Halama
+
 
