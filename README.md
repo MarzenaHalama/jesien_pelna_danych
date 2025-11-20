@@ -1,6 +1,6 @@
 ## Jesień Pełna Danych – Materiały Warsztatowe
 
-Notebooki i przykłady przygotowane przez Marzena Halama
+<img width="723" height="402" alt="image" src="https://github.com/user-attachments/assets/17c16d0a-587a-41ee-87c7-d90ca10605fd" />
 
 
 To repozytorium zawiera materiały, które powstały w ramach wydarzenia „Jesień Pełna Danych” — inicjatywy edukacyjnej łączącej SheCODE:ME, Nerds Coding Gang oraz przestrzeń Plus Jeden Poznań.
@@ -27,7 +27,12 @@ To repozytorium jest naturalnym przedłużeniem misji wydarzenia — udostępnia
 
 ## O autorce
 
+
 Marzena Halama
+
+<img width="719" height="343" alt="image" src="https://github.com/user-attachments/assets/86818c79-567e-425d-8dc4-bbbe027ee1aa" />
+
+
 Matematyczka i Research Assistant w IITA PAN. Zajmuje się uczeniem maszynowym, wizją komputerową i matematycznymi fundamentami sztucznej inteligencji. Edukatorka i prelegentka, autorka projektu Policzne na Palacach [https://policzonenapalcach.pl/] oaraz cyklu bajek mametaycznych [https://open.spotify.com/show/7MTzDvqEmXiYchR8kZMX36]
 
 
@@ -71,4 +76,7 @@ Eksperymentuj z parametrami modeli.
 Używaj materiałów jako bazy do własnych projektów.
 
 Repozytorium będzie rozbudowywane wraz z trwaniem projektu i kolejnych edycji warsztatów.
+
+
+Notebooki i przykłady przygotowane przez Marzena Halama
 
